@@ -191,3 +191,23 @@
 [12:16:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
 [12:16:48] [Server thread/INFO]: <--[HERE]
 [12:17:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:19:31] [Server thread/INFO]: Stopping the server
+[12:19:31] [Server thread/INFO]: Stopping server
+[12:19:31] [Server thread/INFO]: Saving players
+[12:19:31] [Server thread/INFO]: Saving worlds
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:19:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:19:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:19:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:19:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:19:31] [C2ME Storage #3/INFO]: Storage thread Thread[#59,C2ME Storage #3,5,main] stopped
+[12:19:31] [C2ME Storage #2/INFO]: Storage thread Thread[#57,C2ME Storage #2,5,main] stopped
+[12:19:31] [C2ME Storage #1/INFO]: Storage thread Thread[#56,C2ME Storage #1,5,main] stopped
+[12:19:31] [C2ME Storage #6/INFO]: Storage thread Thread[#62,C2ME Storage #6,5,main] stopped
+[12:19:31] [C2ME Storage #5/INFO]: Storage thread Thread[#61,C2ME Storage #5,5,main] stopped
+[12:19:31] [C2ME Storage #4/INFO]: Storage thread Thread[#60,C2ME Storage #4,5,main] stopped
+[12:19:31] [C2ME Storage #9/INFO]: Storage thread Thread[#65,C2ME Storage #9,5,main] stopped
+[12:19:31] [C2ME Storage #8/INFO]: Storage thread Thread[#64,C2ME Storage #8,5,main] stopped
+[12:19:31] [C2ME Storage #7/INFO]: Storage thread Thread[#63,C2ME Storage #7,5,main] stopped
